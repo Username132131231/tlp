@@ -1,1 +1,11 @@
-TR NeronTech TLP Patch v1
+Bazı kullanıcılarımız kariyerin sonraki sezonlarda atma sorunu yaşadığını belirtiyorlar.
+Kariyerde Sonraki Sezonların Transfer Döneminde Atma Sorunu için şu çözümleri deneyebilirsiniz:
+
+!!
+Transfer sezonuna geldiğinizde ve özellikle "Ağustos" ayında her hafta başı ayrı bir save alın!
+
+-Live Editor Transfer Ban:
+Yukarıda her Ağustos ayı öncesi ayrı bir save almanız gerektiğini söylemiştim. Oyunun attığı günden 1 hafta önceki kaydınıza dönün. Aşağıdaki videoda gösterildiği gibi oyunun attığı günden birkaç gün sonrasına kadar (ya da transferlerinizin tamam olduğundan eminseniz transfer sezonu sonuna kadar) kulübünüz için live editor üzerinden transfer yasağı oluşturun. Atma olmadıysa yasağı kaldırabilirsiniz.
+
+
+https://youtu.be/GBChP_C9Hgs

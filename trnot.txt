@@ -1,8 +1,18 @@
-Bazi kullanicilarimiz kariyerin sonraki sezonlarda atma sorunu yasadigini belirtiyorlar. Kariyerde Sonraki Sezonlarin Transfer Doneminde Atma Sorunu icin su cozumleri deneyebilirsiniz:
+Kariyerde Sonraki Sezonlarda Atma Sorunu yaşayanlar şu çözümleri deneyebilir:
 
-!! Transfer sezonuna geldiginde ve ozellikle "Agustos" ayinda her hafta basi ayri bir save alin!
+✅KESİN ÇÖZÜM:
+-Başka takıma transfer olup tekrar dönmek:
+Bu işlem öncesi genç takımdan takımınıza çıkarmak istediğiniz bir oyuncu varsa çıkartın.
+Atan gün öncesi save'inize dönerek Live editor üzerinden başka bir takıma transfer olup sonra tekrar kendi takımınıza transfer olursanız atma sorunu çözülüyor.
+https://youtu.be/HTe2UbfrqPs
 
--Live Editor Transfer Ban: Yukarida her Agustos ayi oncesi ayri bir save almaniz gerektigini soylemistim. Oyunun attigi gunden 1 hafta onceki kaydiniza donun. Asagidaki videoda gosterildigi gibi oyunun attigi gunden birkaç gun sonrasina kadar (ya da transferlerinizin tamam oldugundan eminseniz transfer sezonu sonuna kadar) kulubunuz icin live editor uzerinden transfer yasagi olusturun. Atma olmadiysa yasagi kaldirabilirsiniz.
+✅ ALTERNATİF ÇÖZÜM1:
+-Bir kez daha denemek:
+Oyunu yeniden başlatın ve simule etmeyi bir kez daha deneyin. Bazılarında tekrar simule edince atma sorunu düzeldi.
 
+✅ALTERNATİF ÇÖZÜM2:
+-Live Editor Transfer Ban:
+Yukarıda her Ağustos ayı öncesi ayrı bir save almanız gerektiğini söylemiştim. Oyunun attığı günden 1 hafta önceki kaydınıza dönün. Aşağıdaki videoda gösterildiği gibi oyunun attığı günden birkaç gün sonrasına kadar (ya da transferlerinizin tamam olduğundan eminseniz transfer sezonu sonuna kadar) kulübünüz için live editor üzerinden transfer yasağı oluşturun. Atma olmadıysa yasağı kaldırabilirsiniz.
+https://youtu.be/GBChP_C9Hgs 
 
-https://youtu.be/GBChP_C9Hgs
+Bunlar, biz sorunu çözene kadar kariyerinize devam edebileceğiniz geçici çözümlerdir.

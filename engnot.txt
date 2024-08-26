@@ -1,9 +1,22 @@
-Some of our users are reporting that the career is experiencing a discarding issue in later seasons.
-You can try the following solutions for the Discard Problem in the Transfer Period of the Next Seasons in the Career:
+For those experiencing crashes in later seasons of a career, the following solutions can be tried:
 
-!!
-When you come to the transfer season and especially in ‘August’, get a separate save every week!
+✅ DEFINITIVE SOLUTION:
 
--Live Editor Transfer Ban:
-I mentioned above that you need to get a separate save before every August. Go back to your save 1 week before the day the game throws. As shown in the video below, create a transfer ban for your club via live editor until a few days after the game (or until the end of the transfer season if you are sure that your transfers are complete). You can lift the ban if no signings have been made.
+Transferring to Another Team and Returning:
+If you have a player in the youth team you want to promote to your main team, do it before this step. Go back to your save from before the crash day, use the Live Editor to transfer to another team, and then transfer back to your original team. This resolves the crash issue.
+
+https://youtu.be/HTe2UbfrqPs
+
+✅ ALTERNATIVE SOLUTION 1:
+
+Trying Again:
+Restart the game and try simulating again. For some, the crash issue was fixed after re-simulating.
+
+✅ ALTERNATIVE SOLUTION 2:
+
+Live Editor Transfer Ban:
+As mentioned earlier, make sure to take a separate save before each August. Return to the save from a week before the crash day. As shown in the video below, create a transfer ban for your club through the Live Editor from a few days before the crash day (or until the end of the transfer window if you are sure your transfers are complete). If there's no crash, you can lift the ban.
+
 https://youtu.be/GBChP_C9Hgs
+
+These are temporary solutions you can use to continue your career until we resolve the issue.

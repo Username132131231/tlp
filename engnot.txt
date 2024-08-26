@@ -1,1 +1,9 @@
+Some of our users are reporting that the career is experiencing a discarding issue in later seasons.
+You can try the following solutions for the Discard Problem in the Transfer Period of the Next Seasons in the Career:
 
+!!
+When you come to the transfer season and especially in ‘August’, get a separate save every week!
+
+-Live Editor Transfer Ban:
+I mentioned above that you need to get a separate save before every August. Go back to your save 1 week before the day the game throws. As shown in the video below, create a transfer ban for your club via live editor until a few days after the game (or until the end of the transfer season if you are sure that your transfers are complete). You can lift the ban if no signings have been made.
+https://youtu.be/GBChP_C9Hgs
